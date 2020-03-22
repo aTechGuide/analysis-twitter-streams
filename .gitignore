@@ -1,0 +1,8 @@
+.DS_Store
+
+*.idea/
+twitter.txt
+main.iml
+twitter4j.properties
+checkpoint/*
+
