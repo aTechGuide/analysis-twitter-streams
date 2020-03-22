@@ -1,4 +1,4 @@
-name := "analysis-twitter-streams"
+name := "tweets-analysis"
 
 version := "0.1"
 
